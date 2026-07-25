@@ -19,7 +19,7 @@ Bu proje, **HTML, CSS ve JavaScript** kullanılarak geliştirilmiş basit bir Gi
 
 ## 📸 Proje Önizlemesi
 
-https://github.com/user-attachments/assets/githubcard.mp4
+[https://github.com/user-attachments/assets/githubcard.mp4](https://github.com/rozerinzor/GithubCard-JS/issues/1#issue-4975998091)
 
 > **Not:** Videonun GitHub üzerinde önizleme olarak görünmesi için `githubcard.mp4` dosyasını bir GitHub Issue veya yorum alanına sürükleyip bırakın. Oluşan **user-attachments** bağlantısını yukarıdaki bağlantıyla değiştirmeniz yeterlidir.
 
